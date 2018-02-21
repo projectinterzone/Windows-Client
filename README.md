@@ -1,2 +1,1 @@
-https://www.virustotal.com/#/file-analysis/YWFjZGFhNWI4M2RiMjc5OTAyYWViYTc5YzYwMzAwNmU6MTUxNDY4MDkzNA==
-
+https://www.virustotal.com/#/file/cb9dad720f155417de1a44a02f1eadb88c8e3b23fb23dba3283a9aedc31b97db/detection
